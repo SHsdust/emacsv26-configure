@@ -1,0 +1,10 @@
+/home/master/Documents/zircon/kernel/object/include/object/buffer_chain.h
+/home/master/Documents/zircon/kernel/object/include/object/#buffer_chain.h#
+/home/master/Documents/zircon/kernel/object/buffer_chain.cpp
+/home/master/Documents/zircon/kernel/object/#buffer_chain.cpp#
+/home/master/Documents/zircon/kernel/syscalls/handle_ops.cpp
+/home/master/Documents/zircon/kernel/syscalls/#handle_ops.cpp#
+/home/master/Documents/zircon/kernel/vm/vm.cpp
+/home/master/Documents/zircon/kernel/vm/#vm.cpp#
+/home/master/Documents/zircon/kernel/vm/vm_mapping.cpp
+/home/master/Documents/zircon/kernel/vm/#vm_mapping.cpp#

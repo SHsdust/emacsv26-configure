@@ -1,0 +1,53 @@
+
+;; ----- smex-history -----
+(
+ python-mode
+ anaconda-mode
+ package-delete
+ list-packages
+ package-refresh-contents
+ elpy-mode
+ company-mode
+)
+
+;; ----- smex-data -----
+(
+ (python-mode . 75)
+ (linum-mode . 22)
+ (shell . 15)
+ (pythonic-activate . 1)
+ (customize-themes . 16)
+ (describe-font . 11)
+ (set-default-font . 162)
+ (list-fontsets . 1)
+ (package-install . 2)
+ (list-packages . 5)
+ (elpy-mode . 36)
+ (set-frame-font . 67)
+ (company-clang . 14)
+ (company-mode . 22)
+ (dbx . 1)
+ (thumbs-dired-setroot . 1)
+ (emacs-lisp-mode . 2)
+ (magit-reset . 1)
+ (global-linum-mode . 20)
+ (company-clang-set-prefix . 1)
+ (asm-mode . 1)
+ (outline-hide-body . 2)
+ (hs-minor-mode . 8)
+ (hs-hide-all . 7)
+ (hs-show-all . 4)
+ (hs-hide-block . 7)
+ (hs-show-block . 10)
+ (hs-hide-level . 1)
+ (eshell . 1)
+ (setenv . 1)
+ (global-company-mode . 4)
+ (kill-emacs . 1)
+ (previous-line . 1)
+ (cuda-mode . 1)
+ (package-delete . 8)
+ (package-refresh-contents . 2)
+ (anaconda-mode . 13)
+ (company-anaconda . 2)
+)
