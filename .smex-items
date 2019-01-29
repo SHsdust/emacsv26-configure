@@ -12,7 +12,7 @@
 
 ;; ----- smex-data -----
 (
- (python-mode . 75)
+ (python-mode . 78)
  (linum-mode . 22)
  (shell . 15)
  (pythonic-activate . 1)
