@@ -1,7 +1,8 @@
 # .emacs.d
-> emacs configure for restoring
+---
 
+**emacs configure for restoring**
 ## Start Up
 ```
-git clone 
+git clone https://github.com/SHsdust/.emacs.d.git ~/.emacs.d
 ```
