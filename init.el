@@ -172,17 +172,16 @@
 
 (provide 'init)
 (require 'package)
+
+;; Configuration of Python IDE
+;; https://github.com/jorgenschaefer/elpy
+;;(require 'elpy nil t)
 (setq package-archives
       '(("gnu" . "http://elpa.gnu.org/packages/")
         ("marmalade" . "http://marmalade-repo.org/packages/")
         ("melpa" . "http://melpa.milkbox.net/packages/")))
 (package-initialize)
 
-
-
-;; Configuration of Python IDE
-;; https://github.com/jorgenschaefer/elpy
-;;(require 'elpy nil t)
 (elpy-enable)
 (setq elpy-rpc-python-command "python")  ;; python3
 (elpy-use-ipython)                        ;; ipython
