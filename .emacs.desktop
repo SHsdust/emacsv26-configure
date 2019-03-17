@@ -1,0 +1,156 @@
+;; -*- mode: emacs-lisp; coding: emacs-mule; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Sat Mar  2 22:52:48 2019
+;; Desktop file format version 208
+;; Emacs version 26.1
+
+;; Global section:
+(setq desktop-saved-frameset [frameset 1 (23674 39104 509679 243000) (desktop . "208") "master@archlinux" nil nil ((((minibuffer . t) (undecorated) (override-redirect) (font-backend xft x) (font . "-CYEL-Iosevka-normal-normal-normal-*-19-*-*-*-d-0-iso10646-1") (font-parameter . "Iosevka-14") (border-width . 0) (internal-border-width . 0) (right-divider-width . 0) (bottom-divider-width . 0) (vertical-scroll-bars) (horizontal-scroll-bars) (foreground-color . "#cccccc") (background-color . "#2d2d2d") (mouse-color . "black") (border-color . "#515151") (screen-gamma) (line-spacing) (left-fringe . 8) (right-fringe . 8) (no-special-glyphs) (scroll-bar-foreground) (scroll-bar-background) (menu-bar-lines . 0) (tool-bar-lines . 0) (title) (wait-for-wm . t) (tool-bar-position . top) (inhibit-double-buffering) (icon-type . t) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 0) (scroll-bar-height . 0) (alpha) (no-focus-on-map) (no-accept-focus) (fullscreen . maximized) (visibility . t) (skip-taskbar) (z-group) (display-type . color) (background-mode . light) (cursor-color . "#f2777a") (sticky) (environment) (modeline . t) (unsplittable) (frameset--id . "A110-405B-539B-5478") (frameset--mini t . t) (display . ":0") (nil) (icon-name) (explicit-name) (height . 45) (width . 190) (left + -1) (top . 26)) ((min-height . 4) (min-width . 10) (min-height-ignore . 3) (min-width-ignore . 7) (min-height-safe . 1) (min-width-safe . 2) (min-pixel-height . 92) (min-pixel-width . 100) (min-pixel-height-ignore . 69) (min-pixel-width-ignore . 70) (min-pixel-height-safe . 23) (min-pixel-width-safe . 20)) leaf (pixel-width . 1920) (pixel-height . 1030) (total-width . 192) (total-height . 44) (normal-height . 1.0) (normal-width . 1.0) (buffer "asyncAPI.cu" (selected . t) (hscroll . 0) (fringes 8 8 nil) (margins 3) (scroll-bars nil 0 t nil 0 t) (vscroll . 0) (dedicated) (point . 1380) (start . 1380))))])
+(setq comint-input-ring nil)
+(setq compile-history nil)
+(setq desktop-missing-file-warning nil)
+(setq dired-regexp-history nil)
+(setq extended-command-history nil)
+(setq face-name-history nil)
+(setq file-name-history '("/opt/cuda/samples/0_Simple/asyncAPI/asyncAPI.cu" "/home/master/" "/home/master/.nvidia-xinitrc" "/etc/proxychains.conf" "~/Documents/ao.cpp" "~/.zshrc" "~/Documents/ao.py" "~/.config/redshift.conf" "~/.emacs.d/init.el" "~/.nvidia-xinitrc" "~/Documents/linux-0.11/init/main.c" "/etc/proxychains.conf" "~/Documents/ao.cpp" "~/.zshrc" "~/Documents/ao.py" "~/.config/redshift.conf" "~/Documents/linux-0.11/init/main.c" "~/.emacs.d/init.el" "/etc/proxychains.conf" "~/Documents/ao.cpp" "~/.zshrc" "~/Documents/ao.py" "~/.config/redshift.conf" "~/Documents/linux-0.11/init/main.c" "/home/master/.emacs.d/init.el" "/etc/proxychains.conf" "~/Documents/ao.cpp" "~/.zshrc" "~/Documents/ao.py" "~/.emacs.d/init.el" "~/.config/redshift.conf" "~/Documents/linux-0.11/init/main.c" "/etc/proxychains.conf" "~/Documents/ao.cpp" "~/.zshrc" "~/Documents/ao.py" "~/.emacs.d/init.el" "~/.config/redshift.conf" "~/Documents/linux-0.11/init/main.c" "/home/master/.config/redshift.conf" "/etc/proxychains.conf" "~/Documents/ao.cpp" "~/.zshrc" "~/Documents/ao.py" "~/.emacs.d/init.el" "/home/master/Documents/linux-0.11/init/main.c" "/etc/proxychains.conf" "~/Documents/ao.cpp" "~/.zshrc" "~/Documents/ao.py" "~/.emacs.d/init.el" "~/.emacs.d/init.el" "/etc/proxychains.conf" "~/Documents/ao.cpp" "~/.zshrc" "~/Documents/ao.py" "/home/master/.zshrc" "/home/master/zshrc" "/home/master/Documents/ao.py" "/home/master/Documents/ao.cpp" "~/.emacs.d/init.el" "/etc/proxychains.conf" "~/.emacs.d/init.el" "/etc/proxychains.conf" "~/Documents/ao.py" "~/.emacs.d/init.el" "/etc/proxychains.conf" "~/Documents/ao.py" "/etc/proxychains.conf" "~/.emacs.d/init.el" "~/Documents/ao.py" "~/.emacs.d/init.el" "~/Documents/ao.py" "~/.emacs.d/init.el" "~/.emacs.d/custom.el" "/home/master/init" "/home/master/-" "/home/master/.config/fontconfig/fonts.conf" "/home/master/.emacs.d/network-security.data" "/home/master/.emacs.d/.directory" "/home/master/.emacs.d/" "~/.emacs.d/init.el" "~/Documents/ao.cpp" "~/Documents/ao.py" "~/.emacs.d/recentf" "~/.emacs.d/custom.el" "~/Documents/seq2seq-chatbot/main.py" "~/.zshrc" "~/Documents/PhoenixGo/common/go_comm.cc" "~/Documents/PhoenixGo/common/go_comm.h" "~/Documents/PhoenixGo/third_party/tensorflow/bazel.rc" "~/Documents/PhoenixGo/etc/mcts_1gpu.conf" "~/Documents/PhoenixGo/configure" "~/Documents/ConvMF/models.py" "~/Documents/ConvMF/README.md" "~/Documents/hmm.py" "~/Documents/elisp.pdf" "~/.cache/fontconfig/08dbacfb-a20d-4582-943d-e4fe51611101-le64.cache-7" "~/Documents/cuda/samples/0_Simple/clock_nvrtc/clock.cpp" "~/Documents/cuda/samples/2_Graphics/simpleGL/simpleGL.cu"))
+(setq grep-find-history nil)
+(setq grep-history nil)
+(setq ido-buffer-history nil)
+(setq ido-last-directory-list nil)
+(setq ido-work-directory-list nil)
+(setq ido-work-file-list nil)
+(setq ivy-history '("iose" "18"))
+(setq minibuffer-history nil)
+(setq query-replace-history nil)
+(setq read-expression-history nil)
+(setq regexp-history nil)
+(setq regexp-search-ring nil)
+(setq register-alist '((48 . "[manual]\nlat=39.90\nlon=116.41")))
+(setq search-ring '("90"))
+(setq shell-command-history nil)
+(setq tags-file-name nil)
+(setq tags-table-list nil)
+
+;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 208
+  "/opt/cuda/samples/0_Simple/asyncAPI/asyncAPI.cu"
+  "asyncAPI.cu"
+  'cuda-mode
+  '(abbrev-mode company-mode immortal-scratch-mode auto-compile-on-load-mode projectile-mode diff-hl-mode whitespace-cleanup-mode guide-key-mode hes-mode whole-line-or-region-local-mode undo-tree-mode beacon-mode global-auto-revert-mode ivy-mode counsel-mode flycheck-mode anzu-mode dimmer-mode)
+  1380
+  '(3998 nil)
+  t
+  nil
+  '((buffer-display-time 23674 38471 100849 83000) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring (1844 957))))
+
+(desktop-create-buffer 208
+  "/home/master/.zshrc"
+  ".zshrc"
+  'sh-mode
+  '(company-mode immortal-scratch-mode auto-compile-on-load-mode projectile-mode diff-hl-mode whitespace-cleanup-mode guide-key-mode hes-mode whole-line-or-region-local-mode undo-tree-mode beacon-mode global-auto-revert-mode goto-address-prog-mode paredit-everywhere-mode bug-reference-prog-mode symbol-overlay-mode rainbow-delimiters-mode ivy-mode counsel-mode flycheck-mode anzu-mode dimmer-mode)
+  526
+  '(267 nil)
+  nil
+  nil
+  '((buffer-display-time 23674 38455 953297 169000) (buffer-file-coding-system . undecided-unix) (overwrite-mode))
+  '((mark-ring (412 572))))
+
+(desktop-create-buffer 208
+  nil
+  "master"
+  'dired-mode
+  '(company-mode immortal-scratch-mode auto-compile-on-load-mode projectile-mode whitespace-cleanup-mode guide-key-mode hes-mode whole-line-or-region-local-mode beacon-mode global-auto-revert-mode ivy-mode diredfl-mode counsel-mode anzu-mode dimmer-mode diff-hl-dired-mode)
+  4381
+  '(1 nil)
+  t
+  '("/home/master/")
+  '((buffer-display-time 23674 35702 524876 553000))
+  '((mark-ring (1))))
+
+(desktop-create-buffer 208
+  "/home/master/.nvidia-xinitrc"
+  ".nvidia-xinitrc"
+  'fundamental-mode
+  '(company-mode immortal-scratch-mode auto-compile-on-load-mode projectile-mode diff-hl-mode whitespace-cleanup-mode guide-key-mode hes-mode whole-line-or-region-local-mode undo-tree-mode beacon-mode global-auto-revert-mode ivy-mode counsel-mode anzu-mode dimmer-mode)
+  16
+  '(1 nil)
+  nil
+  nil
+  '((buffer-display-time 23674 35702 50676 84000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode))
+  '((mark-ring (16))))
+
+(desktop-create-buffer 208
+  "/home/master/Documents/linux-0.11/init/main.c"
+  "main.c"
+  'c-mode
+  '(abbrev-mode company-mode immortal-scratch-mode auto-compile-on-load-mode projectile-mode diff-hl-mode whitespace-cleanup-mode guide-key-mode hes-mode whole-line-or-region-local-mode undo-tree-mode beacon-mode global-auto-revert-mode goto-address-prog-mode paredit-everywhere-mode bug-reference-prog-mode symbol-overlay-mode rainbow-delimiters-mode ivy-mode counsel-mode flycheck-mode anzu-mode dimmer-mode)
+  1689
+  '(900 nil)
+  nil
+  nil
+  '((buffer-display-time 23674 35694 343859 183000) (buffer-file-coding-system . undecided-unix) (overwrite-mode))
+  '((mark-ring (1408 2409 3445 4357 5222 3600 2556 1617 653 125 649 127 2820 1025 2643 1689))))
+
+(desktop-create-buffer 208
+  "/home/master/.emacs.d/init.el"
+  "init.el"
+  'emacs-lisp-mode
+  '(eldoc-mode company-mode immortal-scratch-mode auto-compile-mode auto-compile-on-load-mode projectile-mode diff-hl-mode whitespace-cleanup-mode guide-key-mode hes-mode whole-line-or-region-local-mode page-break-lines-mode undo-tree-mode beacon-mode global-auto-revert-mode goto-address-prog-mode paredit-mode bug-reference-prog-mode symbol-overlay-mode rainbow-delimiters-mode ivy-mode counsel-mode flycheck-mode anzu-mode dimmer-mode highlight-quoted-mode aggressive-indent-mode elisp-slime-nav-mode)
+  2962
+  '(3840 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-display-time 23674 35354 427048 203000) (buffer-file-coding-system . prefer-utf-8-unix) (overwrite-mode))
+  '((mark-ring (5189 6385 7548 5491))))
+
+(desktop-create-buffer 208
+  "/home/master/.config/redshift.conf"
+  "redshift.conf"
+  'conf-unix-mode
+  '(company-mode immortal-scratch-mode auto-compile-on-load-mode projectile-mode diff-hl-mode whitespace-cleanup-mode guide-key-mode hes-mode whole-line-or-region-local-mode undo-tree-mode beacon-mode global-auto-revert-mode symbol-overlay-mode ivy-mode counsel-mode flycheck-mode anzu-mode dimmer-mode)
+  100
+  '(82 nil)
+  nil
+  nil
+  '((buffer-display-time 23674 32435 457266 276000) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring (1 1))))
+
+(desktop-create-buffer 208
+  "/home/master/Documents/ao.py"
+  "ao.py"
+  'python-mode
+  '(eldoc-mode elpy-mode company-mode flymake-mode highlight-indentation-mode yas-minor-mode immortal-scratch-mode auto-compile-on-load-mode projectile-mode diff-hl-mode whitespace-cleanup-mode guide-key-mode hes-mode whole-line-or-region-local-mode undo-tree-mode beacon-mode global-auto-revert-mode goto-address-prog-mode paredit-everywhere-mode bug-reference-prog-mode symbol-overlay-mode rainbow-delimiters-mode ivy-mode counsel-mode flycheck-mode anzu-mode dimmer-mode anaconda-mode anaconda-eldoc-mode)
+  1
+  '(112 nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-display-time 23674 10753 11189 398000) (buffer-file-coding-system . undecided-unix) (overwrite-mode))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/master/Documents/ao.cpp"
+  "ao.cpp"
+  'c++-mode
+  '(abbrev-mode company-mode immortal-scratch-mode auto-compile-on-load-mode projectile-mode diff-hl-mode whitespace-cleanup-mode guide-key-mode hes-mode whole-line-or-region-local-mode undo-tree-mode beacon-mode global-auto-revert-mode goto-address-prog-mode paredit-everywhere-mode bug-reference-prog-mode symbol-overlay-mode rainbow-delimiters-mode ivy-mode counsel-mode flycheck-mode anzu-mode dimmer-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-display-time 23673 20209 258733 610000) (buffer-file-coding-system . undecided-unix) (overwrite-mode))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/etc/proxychains.conf"
+  "proxychains.conf"
+  'conf-space-mode
+  '(company-mode immortal-scratch-mode auto-compile-on-load-mode projectile-mode diff-hl-mode whitespace-cleanup-mode guide-key-mode hes-mode whole-line-or-region-local-mode undo-tree-mode beacon-mode global-auto-revert-mode symbol-overlay-mode ivy-mode counsel-mode flycheck-mode anzu-mode dimmer-mode)
+  3668
+  '(400 nil)
+  t
+  nil
+  '((buffer-display-time 23674 35687 197823 186000) (buffer-file-coding-system . undecided-unix) (overwrite-mode))
+  '((mark-ring nil)))
+

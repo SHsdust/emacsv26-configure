@@ -3,16 +3,16 @@
 (
  python-mode
  anaconda-mode
- package-delete
- list-packages
- package-refresh-contents
+ package-install
+ dired-tree-up
+ undo-tree-mode
+ global-nlinum-mode
  elpy-mode
- company-mode
 )
 
 ;; ----- smex-data -----
 (
- (python-mode . 78)
+ (python-mode . 85)
  (linum-mode . 22)
  (shell . 15)
  (pythonic-activate . 1)
@@ -20,9 +20,9 @@
  (describe-font . 11)
  (set-default-font . 162)
  (list-fontsets . 1)
- (package-install . 2)
+ (package-install . 4)
  (list-packages . 5)
- (elpy-mode . 36)
+ (elpy-mode . 38)
  (set-frame-font . 67)
  (company-clang . 14)
  (company-mode . 22)
@@ -48,6 +48,9 @@
  (cuda-mode . 1)
  (package-delete . 8)
  (package-refresh-contents . 2)
- (anaconda-mode . 13)
+ (anaconda-mode . 15)
  (company-anaconda . 2)
+ (global-nlinum-mode . 7)
+ (undo-tree-mode . 1)
+ (dired-tree-up . 2)
 )
