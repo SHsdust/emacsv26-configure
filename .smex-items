@@ -3,16 +3,16 @@
 (
  python-mode
  anaconda-mode
+ global-nlinum-mode
  package-install
  dired-tree-up
  undo-tree-mode
- global-nlinum-mode
  elpy-mode
 )
 
 ;; ----- smex-data -----
 (
- (python-mode . 85)
+ (python-mode . 87)
  (linum-mode . 22)
  (shell . 15)
  (pythonic-activate . 1)
@@ -48,9 +48,9 @@
  (cuda-mode . 1)
  (package-delete . 8)
  (package-refresh-contents . 2)
- (anaconda-mode . 15)
+ (anaconda-mode . 17)
  (company-anaconda . 2)
- (global-nlinum-mode . 7)
+ (global-nlinum-mode . 8)
  (undo-tree-mode . 1)
  (dired-tree-up . 2)
 )
