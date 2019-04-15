@@ -182,9 +182,9 @@
         ("melpa" . "http://melpa.milkbox.net/packages/")))
 (package-initialize)
 
-(elpy-enable)
+;;(elpy-enable)
 (setq elpy-rpc-python-command "python")  ;; python3
-(elpy-use-ipython)                        ;; ipython
+;;(elpy-use-ipython)                        ;; ipython
 (defalias 'yes-or-no-p 'y-or-n-p)
 
 
